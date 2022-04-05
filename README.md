@@ -1,2 +1,1 @@
-# lwmfjc.github.io.source_hugo
-hugo存档
+# lwmfjc.github.io.source
